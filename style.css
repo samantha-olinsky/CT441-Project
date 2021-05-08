@@ -16,26 +16,6 @@ body {
      z-index:0;
     } 
 
- #Layer1 
-{ 
-     left: -127px; 
-     top: 9px; 
-     position: absolute; 
-     width: 1836px;
-     height: 1377px;
-     z-index:1;
-} 
-
- #Layer2 
-{ 
-     left: 68px; 
-     top: 35px; 
-     position: absolute; 
-     width: 534px;
-     height: 1268px;
-     z-index:2;
-} 
-
  #GButtonBackgroundCol 
 { 
      left: 301px; 
